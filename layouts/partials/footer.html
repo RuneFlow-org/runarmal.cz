@@ -1,6 +1,6 @@
 <div class="site-footer">
     <div class="container">
-        &copy; 2009-2019 RuneFlow.org
+        &copy; 2009-2023 RuneFlow.org
     </div>
 </div>
 
@@ -13,15 +13,4 @@
 <script src="/js/load-photoswipe.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous"></script>
-{{ end }}
-
-{{ if not .Site.IsServer }}
-{{ with .Site.Params.googleAnalytics }}
-<script>
-  window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-  ga('create', '{{ . }}', 'auto');
-  ga('send', 'pageview');
-</script>
-<script async src='https://www.google-analytics.com/analytics.js'></script>
-{{ end }}
 {{ end }}

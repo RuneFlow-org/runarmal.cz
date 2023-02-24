@@ -1,11 +1,11 @@
 baseURL: 'https://runarmal.cz/'
 languageCode: cz-cs
 title: Rûnarmál
+googleAnalytics: G-NZ2HLBWXB0
 
 params:
   description: 'Rûnarmál | Ásatrú, runy, severská mytologie a Vikingové'
   customDateFormat: 'Jan 1, 2019'
-  googleAnalytics: UA-2081861-4
   email: info@runarmal.cz
 
 menu:
