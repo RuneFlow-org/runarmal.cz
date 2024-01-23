@@ -7,6 +7,7 @@
 
   <main role="main" class="flex-shrink-0 site-content">
     <div class="container">
+      {{ partial "breadcrumbs.html" . }}
       {{ block "main" . }}{{ end }}
     </div>
   </main>

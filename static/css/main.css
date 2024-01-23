@@ -101,6 +101,21 @@ h1,h2,h3,h4,h5,h6 {
 	font-size: 1.5rem;
 }
 
+#breadcrumbs {
+	display: block;	
+	padding-left: 0;
+	font-size: 90%;
+}
+#breadcrumbs li {
+	display: inline;
+}
+#breadcrumbs li:not(:last-child):after {
+	content: " >";
+}
+#breadcrumbs a {
+	color: rgba(68, 63, 54, 0.891);
+}
+
 
 .site-content>.homepage {
 	background: none;
