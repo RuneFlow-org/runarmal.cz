@@ -3,7 +3,7 @@ title: Hamðismál - Píseň o Hamdim
 date: 2009-11-01
 ---
 
-[1](#1)  
+<a href="#1" id="1">1</a>  
 Za dávných časů,  
 když červánky vzešly,  
 vzklíčilo smutné  
@@ -13,7 +13,7 @@ rozkvétá bolest,
 starost svírá  
 lidská srdce.
 
-[2](#2)  
+<a href="#2" id="2">2</a>  
 Dnes to nebylo,  
 ani včera  
 - mnoho dní uběhlo  
@@ -23,7 +23,7 @@ Gjúkova dcera,
 své mladé syny,  
 by pomstili sestru:
 
-[3](#3)  
+<a href="#3" id="3">3</a>  
 "Svanhildu světlou,  
 vaši sestru,  
 Jörmunrekk král  
@@ -33,14 +33,14 @@ na vojenské cestě,
 grošáky divými,  
 gótskými oři.
 
-[4](#4)  
+<a href="#4" id="4">4</a>  
 Z moci jste byli  
 zatlačeni ......  
 ................  
 poslední jste větve  
 mého rodu.
 
-[5](#5)  
+<a href="#5" id="5">5</a>  
 Opuštěná jsem  
 jak osika v lese,  
 bez příbuzných  
@@ -50,7 +50,7 @@ jak o listí strom,
 když vichr se přižene  
 v parný den.
 
-[6](#6)  
+<a href="#6" id="6">6</a>  
 (Nejste však do rodu  
 Gunnarova,  
 nemáte Högniho  
@@ -61,7 +61,7 @@ kdybyste měli
 srdce mých bratří,  
 hněvnou povahu  
 hunských králů.")  
-[7](#7)  
+<a href="#7" id="7">7</a>  
 Tu pravil Hamdi,  
 hrdinný kníže:  
 "Méně jsi, myslím,  
@@ -71,7 +71,7 @@ z jeho spánku.
 Na loži sedělas  
 a vrazi se smáli.
 
-[8](#8)  
+<a href="#8" id="8">8</a>  
 Polštáře tvoje  
 sněhobílé  
 zbroceny byly  
@@ -81,7 +81,7 @@ Smutná ses skláněla
 nad vládcem, mrtvým  
 z vůle Gunnarovy.
 
-[9](#9)  
+<a href="#9" id="9">9</a>  
 Atla chtělas zdrtit  
 ubitím Erpa  
 a Eitlovou smrtí.  
@@ -91,7 +91,7 @@ by se užívat mělo
 k zničení druhých,  
 ne k vlastní zhoubě."
 
-[10](#10)  
+<a href="#10" id="10">10</a>  
 Tu pravi1 Sörli,  
 rozvážný syn:  
 "Nemíním s matkou se  
@@ -101,7 +101,7 @@ jste neřekli dosud.
 Co žádáš, Gudrúno,  
 by k žalu ti nebylo?
 
-[11](#11)  
+<a href="#11" id="11">11</a>  
 Bratry oplakávej  
 a bědné syny,  
 blízké příbuzné,  
@@ -111,7 +111,7 @@ obou želet,
 až v cizí zemi  
 zbraní padnem."
 
-[12](#12)  
+<a href="#12" id="12">12</a>  
 Vyjeli ze dvora  
 plní zloby,  
 přes zrosené kopce  
@@ -119,13 +119,13 @@ klusali mládci
 na vraných koních  
 vraždu pomstít.
 
-[13](#13)  
+<a href="#13" id="13">13</a>  
 Setkali se  
 na cestě reci:  
 "Čím bys, nebohý,  
 nám pomoci mohl?"
 
-[14](#14)  
+<a href="#14" id="14">14</a>  
 Nevlastní bratr  
 bratrům pravil,  
 že v nouzi je podpoří  
@@ -137,7 +137,7 @@ podpořit nohu,
 jak jedna pěst pomoci  
 druhé pěsti?"
 
-[15](#15)  
+<a href="#15" id="15">15</a>  
 15 Po těchto slovech  
 pravil Erp k sobě,  
 hrdina, hraje si  
@@ -148,7 +148,7 @@ zbabělým cestu."
 Tu zmetkem nazvali  
 zdatného reka.
 
-[16](#16)  
+<a href="#16" id="16">16</a>  
 Z pochvy tasili  
 břitkou zbraň,  
 ostří ocele,  
@@ -158,7 +158,7 @@ o třetinu,
 když mladého reka  
 ubili mečem.
 
-[17](#17)  
+<a href="#17" id="17">17</a>  
 Pláště přehodili  
 přes ramena,  
 meče si připjali  
@@ -166,7 +166,7 @@ kolem pasu,
 v nádherném odění  
 odjížděli.
 
-[18](#18)  
+<a href="#18" id="18">18</a>  
 Stočili koně  
 na zhoubnou stezku,  
 sestřence spatřili  
@@ -178,7 +178,7 @@ hladoví krákali.
 Nevábilo místo  
 k odpočinku.
 
-[19](#19)  
+<a href="#19" id="19">19</a>  
 Hluk byl v síni,  
 pili hrdinové,  
 neslyšela družina  
@@ -186,7 +186,7 @@ dusot koní,
 až strážce z hradby  
 zatroubil v roh.
 
-[20](#20)  
+<a href="#20" id="20">20</a>  
 Spěchali říci  
 Jörmunrekku,  
 že spatřeni byli  
@@ -196,7 +196,7 @@ rekové přišli.
 Mocným mužům jste  
 sestru usmýkali"
 
-[21](#21)  
+<a href="#21" id="21">21</a>  
 Zasmál se Jöjrmunrekk,  
 přes vous si přejel,  
 vínem se rozjařil  
@@ -206,7 +206,7 @@ pohlédl na štít,
 pozlacený třímal  
 pohár v ruce.
 
-[22](#22)  
+<a href="#22" id="22">22</a>  
 Jörrmunrekk:  
 "Šťasten bych byl,  
 kdybych s štítem v ruce  
@@ -217,11 +217,11 @@ strunami luku,
 Gjúkovy potomky  
 bych pověsil na strom."
 
-[23](#23)  
+<a href="#23" id="23">23</a>  
 Hamdi:  
 ..............
 
-[24](#24)  
+<a href="#24" id="24">24</a>  
 Tu děla slavná,  
 nad hrdiny stojíc,  
 útloprstá kněžna  
@@ -233,7 +233,7 @@ deset set Gótů
 spoutat a pobít  
 v hradní síni?"
 
-[25](#25)  
+<a href="#25" id="25">25</a>  
 Povstal boj v domě,  
 poháry padaly.  
 V krvi, jež proudila  
@@ -241,7 +241,7 @@ z prsou Gótů,
 leželi bojovní  
 bohatýři.
 
-[26](#26)  
+<a href="#26" id="26">26</a>  
 Tu pravil Hamdi,  
 hrdinný rek:  
 "Přál sis, Jörmunrekku,  
@@ -255,7 +255,7 @@ i ruce své
 vhozeny, králi,  
 v horkou výheň."
 
-[27](#27)  
+<a href="#27" id="27">27</a>  
 Tu vzkřikl bohatýr  
 z božského rodu,  
 v mohutné, brnění  
@@ -265,7 +265,7 @@ když kopí jim neškodí,
 ni ostří meče,  
 Jónakrovým synům."
 
-[28](#28)  
+<a href="#28" id="28">28</a>  
 Tu pravil Sörli,  
 rozvážný rek:  
 "Zle učinils, bratře,  
@@ -277,7 +277,7 @@ kéž bys měl moudrost!
 Vítězství nezíská,  
 komu vtip chybí.
 
-[29](#29)  
+<a href="#29" id="29">29</a>  
 Byl by už bez hlavy,  
 kdyby žil Erp,  
 bratr náš mladý,  
@@ -287,7 +287,7 @@ na popud norny
 a tak porušili  
 posvátný mír."
 
-[30](#30)  
+<a href="#30" id="30">30</a>  
 Hamdi:  
 "Nesluší se nám  
 následovat vlky  
@@ -297,7 +297,7 @@ jak psi noren
 v pustém poli  
 na sebe v neštěstí štěkat.
 
-[31](#31)  
+<a href="#31" id="31">31</a>  
 Dobře jsme si vedli.  
 Jak orli na větvi  
 stojíme vítězně  
@@ -307,7 +307,7 @@ i když dnes zemřem.
 Večera se nedočkáš,  
 nechce-li norna."
 
-[32](#32)  
+<a href="#32" id="32">32</a>  
 Sörli tam padl  
 v průčelí síně  
 a Hamdi před hradbou  

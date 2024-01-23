@@ -3,7 +3,7 @@ title: Þrymskviða - Píseň o Trymovi
 date: 2009-11-01
 ---
 
-[1](#1)  
+<a href="#1" id="1">1</a>  
 Vztek schvátil Vingtóra,  
 když se vzbudil  
 a kladivo nikde  
@@ -13,7 +13,7 @@ potřásl vlasy,
 marně se Jördin syn  
 rozhlížel síní.
 
-[2](#2)  
+<a href="#2" id="2">2</a>  
 Tato pak první  
 pronesl slova:  
 "Poslouchej, Loki,  
@@ -23,7 +23,7 @@ na celé zemi,
 ni nahoře na nebi:  
 Ásovi ukradli mlat."
 
-[3](#3)  
+<a href="#3" id="3">3</a>  
 V bílý hrad vešli  
 bohyně Freye  
 a Tór první  
@@ -33,14 +33,14 @@ své šaty z peří,
 bych zpět moh získat  
 svůj mocný mlat?"
 
-[4](#4)  
+<a href="#4" id="4">4</a>  
 _Freya:_  
 "Dala bych ti jej,  
 byť ze zlata byl,  
 a stejně ráda,  
 kdyby byl ze stříbra."
 
-[5](#5)  
+<a href="#5" id="5">5</a>  
 Perutě radostně  
 rozpřáhl Loki,  
 přeletěl rychle  
@@ -48,7 +48,7 @@ příbytky Ásů
 a snesl se dolů  
 k domovu obrů.
 
-[6](#6)  
+<a href="#6" id="6">6</a>  
 Trym seděl na skále,  
 tursů vládce,  
 pro své psy obojky  
@@ -56,21 +56,21 @@ ze zlata pletl
 a hřívu česal  
 svým bujným hřebcům.
 
-[7](#7)  
+<a href="#7" id="7">7</a>  
 _Trym:_  
 "Co je s Ásy!  
 Co je s Álfy?  
 Proč jsi sem zavítal  
 k synům obrů?"
 
-[8](#8)  
+<a href="#8" id="8">8</a>  
 _Loki:_  
 "Zle je s Ásy!  
 Zle je s Álfy!  
 Myslím, žes ukryl  
 Hlórridův mlat!"
 
-[9](#9)  
+<a href="#9" id="9">9</a>  
 _Trym:_  
 "Hlórridův mocný  
 mlat jsem ukryl  
@@ -81,7 +81,7 @@ nikdy nedostane,
 nedá-li mi za ženu  
 žádoucí Freyu."
 
-[10](#10)  
+<a href="#10" id="10">10</a>  
 Perutě radostně  
 rozpřáhl Loki,  
 přeletěl rychle  
@@ -89,13 +89,13 @@ příbytky obrů
 a snes se dolů  
 k domovu Ásů.
 
-[11](#11)  
+<a href="#11" id="11">11</a>  
 Před síní bohů  
 s Tórem se setkal,  
 jenž první tato  
 pronesl slova:
 
-[12](#12)  
+<a href="#12" id="12">12</a>  
 "Je úspěch roven  
 úsilí tvému?  
 Vypravuje věrně,  
@@ -105,7 +105,7 @@ sedícímu
 a lží se chlubívá,  
 kdo vleže si hoví."
 
-[13](#13)  
+<a href="#13" id="13">13</a>  
 _Loki:_  
 "Úspěch mám opravdu  
 ze svého úsilí:  
@@ -116,7 +116,7 @@ nedostane,
 leč dá-li mu za ženu  
 žádoucí Freyu."
 
-[14](#14)  
+<a href="#14" id="14">14</a>  
 Hned se vydali  
 vyhledat Freyu  
 a Tór první  
@@ -126,7 +126,7 @@ v nevěsty úbor
 a pojeď se mnou  
 k palácům obrů!"
 
-[15](#15)  
+<a href="#15" id="15">15</a>  
 Vztek popad Freyu,  
 vzkypěla zlostí,  
 až se otřásly  
@@ -134,14 +134,14 @@ síně Ásů,
 ve dví pukl  
 Brísingů prsten.
 
-[16](#16)  
+<a href="#16" id="16">16</a>  
 _Freya:_  
 "Právem mě budou zvát  
 posedlou po mužích,  
 pojedu-li s tebou  
 v plaáce obrů."
 
-[17](#17)  
+<a href="#17" id="17">17</a>  
 Ihned se sešli  
 Ásové na sněm,  
 a všechny bohyně  
@@ -151,7 +151,7 @@ hledali radu,
 jak Hlórridův mlat  
 mocným vzít obrům.
 
-[18](#18)  
+<a href="#18" id="18">18</a>  
 Tu jasný Heimdall  
 pevným řek hlasem  
 - jak všichni Vanové  
@@ -169,7 +169,7 @@ pestré kameny
 a zlatým čepcem mu  
 očepme hlavu!"
 
-[19](#19)  
+<a href="#19" id="19">19</a>  
 Tu Tór se ozval,  
 odvážný Ás:  
 "Babou mě budou  
@@ -177,7 +177,7 @@ bohové zvát,
 nechám-li si navléci  
 nevěsty úbor."
 
-[20](#20)  
+<a href="#20" id="20">20</a>  
 Loki však pravil,  
 Laufeyjin syn:  
 "Přestaň, Tóre,  
@@ -187,7 +187,7 @@ v hrad Ásů vrhnou,
 z jich moci-li nevyrveš  
 svůj mocný mlat."
 
-[21](#21)  
+<a href="#21" id="21">21</a>  
 Oděli Tóra  
 v nevěsty úbor,  
 na rámě mu dali  
@@ -201,7 +201,7 @@ pestrými kameny
 a zlatým čepcem  
 očepili hlavu.
 
-[22](#22)  
+<a href="#22" id="22">22</a>  
 Tu pravil Loki,  
 Laufeyjin syn:  
 "Služebné děvče ti  
@@ -209,7 +209,7 @@ dělat budu,
 pojedu s tebou  
 do říše tursů."
 
-[23](#23)  
+<a href="#23" id="23">23</a>  
 Hned byli kozli  
 přihnáni domů.  
 V postroj zapřaženi  
@@ -219,7 +219,7 @@ pukaly hory.
 Ódinův syn jel  
 do říše obrů.
 
-[24](#24)  
+<a href="#24" id="24">24</a>  
 Tu pravil Trym,  
 vládce tursů:  
 "Vstaňte, obři,  
@@ -229,7 +229,7 @@ Vedou mi za ženu
 Njördovu dceru  
 z Nóatúnu.
 
-[25](#25)  
+<a href="#25" id="25">25</a>  
 K radosti mé se tu  
 krávy pasou  
 se zlatými rohy  
@@ -239,7 +239,7 @@ i šperků množství,
 jedině Freya mi  
 ještě chybí."
 
-[26](#26)  
+<a href="#26" id="26">26</a>  
 Když k večeru se  
 všichni sešli  
 a před obry stálo  
@@ -251,7 +251,7 @@ kdejakou sladkost.
 Sifjin muž vypil  
 tři sudy piva.
 
-[27](#27)  
+<a href="#27" id="27">27</a>  
 Tu pravil Trym  
 vládce tursů:  
 "Nikdy jsem neviděl  
@@ -261,7 +261,7 @@ a nápoje z chmelu,
 tučného masa  
 sladké medoviny!"
 
-[28](#28)  
+<a href="#28" id="28">28</a>  
 Chytrá služebná  
 seděla u stolu  
 hledajíc odpověď  
@@ -271,7 +271,7 @@ nejedla nevěsta,
 tolik po objetí  
 toužila obra!"
 
-[29](#29)  
+<a href="#29" id="29">29</a>  
 Pozdvihl nápoj  
 polibků chtivý,  
 však daleko uskočil  
@@ -281,7 +281,7 @@ Freyiny oči?
 Z jejího pohledu  
 oheň plane."
 
-[30](#30)  
+<a href="#30" id="30">30</a>  
 Chytrá služebná  
 seděla u stolu,  
 hledajíc odpověď  
@@ -291,7 +291,7 @@ nespala nevěsta,
 tolik po objetí  
 toužila obra."
 
-[31](#31)  
+<a href="#31" id="31">31</a>  
 Dovnitř vešla  
 Trymova sestra,  
 náramek žádala  
@@ -301,7 +301,7 @@ rudý prsten,
 chceš-li mou lásku mít  
 a moji přízeň."
 
-[32](#32)  
+<a href="#32" id="32">32</a>  
 Tu pravil Trym,  
 tursů vládce:  
 "Přineste Mjölln,  
@@ -311,7 +311,7 @@ kladivo děvě,
 spojte nás oba  
 Váriným slibem!"
 
-[33](#33)  
+<a href="#33" id="33">33</a>  
 Srdce se Hlórridu  
 zasmálo v hrudi,  
 když opět svůj mocný  
@@ -321,7 +321,7 @@ tursů vládce.
 Ochromen byl  
 všechen rod obrů.
 
-[34](#34)  
+<a href="#34" id="34">34</a>  
 Mrtvá se skácela  
 obrova sestra,  
 jež na nevěstě  
@@ -331,6 +331,6 @@ pádnou ránu
 kladivem dostala  
 tursova dcera.
 
-[35](#35)  
+<a href="#35" id="35">35</a>  
 Tak mlat zpět získal  
 Ódinův syn.

@@ -5,7 +5,7 @@ date: 2009-11-01
 
 O synech krále Hraudunga. Král Hraudung měl dva syny. Jeden se jmenoval Agnar a druhý Geirröd. Agnarovi bylo deset let a Geirrödovi osm. Jednou si vzali udice a vypravili se v člunu na lov rybek. Vítr je zahnal na širé moře. Za noční tmy ztroskotali u pobřeží a vystoupili na břeh, kde potkali chudého sedláka a zůstali u něho přes zimu. Žena se ujala Agnara a muž vychovával Geirröda, kterému dával dobré rady. Na jaře jim daroval muž člun. Když pak je s ženou doprovázel na břeh, promlouval muž stranou s Geirrödem. Chlapci dostali příznivý vítr a přistáli v otcově přístavu. Geirröd, který stál na přídi, vyskočil na břeh, odstrčil člun a pravil: "Jeď a vem si tě ďas!" Člun odplul na širé moře a Geirröd šel do otcova domu. Byl přijat s otevřenou náručí, ale jeho otec byl již mrtev. Geirröd byl tedy prohlášen králem a stal se slavným. Frigg s Ódinem seděli jednou v Hlidskjálfu a rozhlíželi se po celém světě. Ódin pravil: "Vidíš svého chráněnce Agnara, jak v jeskyni plodí děti s ženou obrů? Můj chráněnec Geirröd však je králem a vládne své zemi." "Je to takový skrblík," odpověděla Frigg, "že mučí své hosty, jestliže se mu zdá, že jich přišlo příliš mnoho." Ódin odpověděl, že to je holá lež. Uzavřeli pak oba v té věci sázku. Frigg poslala svou služebnou Fullu, která pečovala o její poklady, ke Geirrödovi a uložila jí, aby varovala krále, aby se měl na pozoru před mužem znalým kouzel, který přišel do jeho země. Pozná prý ho podle toho, že žádný pes není tak zlý, aby se na něho opovážil. To však byla pustá lež, že by král Geirröd skrlblil jídlem. Král tedy dal zatknout muže, na kterého se neopovážil žádný pes. Muž měl na sobě modrý plášť. Pravil, že se jmenuje Grímni a nic víc o sobě neřekl, ať se ho sebevíc vyptávali. Král ho dal mučit, aby ho donutil k řeči, a posadil ho mezi dva ohně, kde zůstal sedět po osm dní. Král Geirröd měl syna, kterému bylo deset let, jmenoval se po svém strýci Agnar. Agnar přistoupil ke Grímnimu a podal mu roh, aby se napil a pravil, že si král vede zle jestliže mučí tohoto nevinného muže. Grímni vyprázdnil roh. Tu vzplál oheň tak mocně, že na Grímnim chytil plášť. Grímni pravil:
 
-[1](#1)  
+<a href="#1" id="1">1</a>  
 "Příliš horké jste,  
 plameny ohně:  
 ustupte ode mne, jiskry!  
@@ -13,7 +13,7 @@ Plášť mi chytá,
 i když jej pozvednu,  
 hoří můj hnědý kožich.
 
-[2](#2)  
+<a href="#2" id="2">2</a>  
 Osm nocí jsem  
 mezi ohni zde seděl  
 a nikdo mi nenabíd jídlo,  
@@ -21,7 +21,7 @@ jenom Agnar.
 Ten ať jediný vládne,  
 syn Geirrödův, zemi Gótů.
 
-[3](#3)  
+<a href="#3" id="3">3</a>  
 Zdráv budeš, Agnare,  
 když zdar ti přeje  
 věrný Veratýr.  
@@ -29,7 +29,7 @@ Za jediný doušek
 se ti sotva kdy dostane  
 dražšího daru.
 
-[4](#4)  
+<a href="#4" id="4">4</a>  
 Svatá je země,  
 již v světle vidím  
 v blízkosti Ásů a Álfů...  
@@ -37,7 +37,7 @@ V Trúdheimu bude
 Tór pobývat  
 do ragnaröku.
 
-[5](#5)  
+<a href="#5" id="5">5</a>  
 Ýdaly místo je,  
 kde Ull si postavil  
 své skvělé síně.  
@@ -45,7 +45,7 @@ své skvělé síně.
 Freyovi darem  
 přesvatí k postřižinám.
 
-[6](#6)  
+<a href="#6" id="6">6</a>  
 Třetí byt je,  
 jejž bohové pokryli  
 stříbrnou střechou.  
@@ -53,7 +53,7 @@ Válaskjálf sluje
 a vystavěl si jej  
 Ás v temnu věků.
 
-[7](#7)  
+<a href="#7" id="7">7</a>  
 Sökkvabekk je čtvrtý.  
 Sladce kol šumí  
 vod vlahé vlny.  
@@ -61,7 +61,7 @@ V něm Ódin a Sága
 opojný nápoj  
 věčně budou z poháru pít.
 
-[8](#8)  
+<a href="#8" id="8">8</a>  
 Gladsheim je pátý,  
 z něhož se pne  
 do výše Valhalla.  
@@ -69,7 +69,7 @@ V něm věrný Hropt
 každý den volí  
 muže, již mečem padnou.
 
-[9](#9)  
+<a href="#9" id="9">9</a>  
 Lehce poznají,  
 kdo k Ódinovi přijdou,  
 jeho skvělou síň:  
@@ -77,7 +77,7 @@ z kopí je zdělán krov,
 ze štítů střecha síně,  
 brněním se lavice lesknou.
 
-[10](#10)  
+<a href="#10" id="10">10</a>  
 Lehce poznají,  
 kdo k Ódinovi přijdou,  
 jeho skvělou síň:  
@@ -85,7 +85,7 @@ vlk u západních
 visí dveří  
 a nad ním orel ostrých očí.
 
-[11](#11)  
+<a href="#11" id="11">11</a>  
 Trymheim je šestý,  
 jejž Tjazi obýval,  
 urputný obr.  
@@ -93,7 +93,7 @@ Teď Skadi bydlí,
 světlá nevěsta,  
 v otcově bývalém bytě.
 
-[12](#12)  
+<a href="#12" id="12">12</a>  
 Sedmý je Breidablik,  
 v kterém si Baldr  
 svou vystavěl síň,  
@@ -101,7 +101,7 @@ v oné zemi,
 v níž zlé runy  
 nebyly vryty v dřevo.
 
-[13](#13)  
+<a href="#13" id="13">13</a>  
 Himinbjörg je osmý,  
 v němž Heimdall  
 svatyněmi vládne.  
@@ -109,7 +109,7 @@ Tam hlídač bohů
 v jich hájemství pije  
 opojnou z poháru medovinu.
 
-[14](#14)  
+<a href="#14" id="14">14</a>  
 Fólkvang je devátý,  
 v jehož síních Freyja  
 určuje u stolů místa;  
@@ -117,7 +117,7 @@ polovina padlých
 jí připadne  
 a polovině poroučí Ódin.
 
-[15](#15)  
+<a href="#15" id="15">15</a>  
 Glitni je desátý,  
 se zlatými sloupy  
 a stříbrnou střechou;  
@@ -125,7 +125,7 @@ tam většinu dní tráví
 vážný Forseti  
 a všechny srovnává spory.
 
-[16](#16)  
+<a href="#16" id="16">16</a>  
 Nóatún je jedenáctý;  
 v něm si Njörd zřídil  
 svou skvělou síň.  
@@ -133,7 +133,7 @@ Vládce lidí,
 viny prostý,  
 svůj vysoký tam chrání chrám.
 
-[17](#17)  
+<a href="#17" id="17">17</a>  
 Trním zarůstá,  
 vysokou trávou  
 a vřesem Vídarova země;  
@@ -141,7 +141,7 @@ tam ze hřbetu hřebce
 sesedne syn,  
 by otcův pomstil pád.
 
-[18](#18)  
+<a href="#18" id="18">18</a>  
 Andhrímni  
 nechává v Eldhrímnu  
 Séhrímna smažit,  
@@ -149,7 +149,7 @@ nejlepší maso;
 však málokdo ví,  
 co požívají padlí muži.
 
-[19](#19)  
+<a href="#19" id="19">19</a>  
 Gera a Freka,  
 vlky dva,  
 velitel vojsk  
@@ -158,7 +158,7 @@ sám věčný vládce
 jen víno však  
 ze zlatého poháru pije.
 
-[20](#20)  
+<a href="#20" id="20">20</a>  
 Hugin a Munin  
 každý den musí  
 oblétnout obzor.  
@@ -166,7 +166,7 @@ Strach mám o Hugina,
 zda stačí se vrátit,  
 však Munin mi více v mysli leží.
 
-[21](#21)  
+<a href="#21" id="21">21</a>  
 Tund hučí,  
 Tjódvitniho rybu je  
 ve vlnách vidět.  
@@ -174,7 +174,7 @@ Proud řeky se zdá
 příliš prudký  
 k přebrození na druhý břeh.
 
-[22](#22)  
+<a href="#22" id="22">22</a>  
 Valgrind se jmenuje  
 veliká mříž,  
 svatá, před svatou bránou.  
@@ -182,7 +182,7 @@ Stará je to mříž
 a sotva kdo ví,  
 jakým zámkem je zamčena.
 
-[23](#23)  
+<a href="#23" id="23">23</a>  
 Pět set bran je  
 a osmkrát pět  
 ve Valhalle vládce.  
@@ -190,7 +190,7 @@ Osm set reků
 rázem jednou projde,  
 až ubít vyjedou vlka.
 
-[24](#24)  
+<a href="#24" id="24">24</a>  
 Pět set síní  
 a osmkrát pět  
 je v bytě Bilskírnu.  
@@ -198,7 +198,7 @@ Ze všech síní
 pod bezpečnou střechou  
 největší je síň mého syna.
 
-[25](#25)  
+<a href="#25" id="25">25</a>  
 Heidrún je koza  
 na vládcově hale,  
 která se živí z Laeradu listím.  
@@ -206,7 +206,7 @@ Díži naplní
 dobrou medovinou,  
 nikdy nebudou poháry prázdné.
 
-[26](#26)  
+<a href="#26" id="26">26</a>  
 Eiktyrni je jelen  
 na Ódinově síni,  
 který se živí z Laeradu listím.  
@@ -214,7 +214,7 @@ Z jeho parohů
 v Hvergelm prší,  
 tam mají všechny prameny původ.
 
-[27](#27)  
+<a href="#27" id="27">27</a>  
 Síd a Víd,  
 Soekin a Eikin,  
 Svöl a Gunntró,  
@@ -228,7 +228,7 @@ Tyn též a Vin,
 Töll a Höll,  
 Grád a Gunntorin.
 
-[28](#28)  
+<a href="#28" id="28">28</a>  
 Vína je jeden,  
 jiný Vegsvinn,  
 třetí Tjódnuma,  
@@ -242,7 +242,7 @@ Gjöl a Leipt
 spadají k lidem  
 a odtud v podsvětí proudí.
 
-[29](#29)  
+<a href="#29" id="29">29</a>  
 Körmtem a Örmtem  
 a oběma Kerlaugy  
 se tam Tór brodí,  
@@ -254,7 +254,7 @@ protože Ásů most
 plameny hoří,  
 vrou svaté vody.
 
-[30](#30)  
+<a href="#30" id="30">30</a>  
 Glad a Gylli,  
 Gler a Skeidbrimi,  
 Silfrintop, Sini,  
@@ -265,7 +265,7 @@ jsou koně, na nichž každý den
 k Yggdrasilu,  
 slavnému jasanu, jedou.
 
-[31](#31)  
+<a href="#31" id="31">31</a>  
 Tři kořeny vyhání  
 třemi směry  
 jasan Yggdrasil:  
@@ -273,7 +273,7 @@ Hel bydlí pod prvním,
 pod druhým obři,  
 pod třetím lidské pokolení.
 
-[32](#32)  
+<a href="#32" id="32">32</a>  
 Veverka Ratatosk  
 ve větvích jasanu  
 bez klidu běhá.  
@@ -281,14 +281,14 @@ Slova orla
 seshora nese  
 netvoru Nidhöggovi.
 
-[33](#33)  
+<a href="#33" id="33">33</a>  
 Též čtyři jeleni se  
 na jasanu světa,  
 na jeho pupenech popásají:  
 Dáin a Dvalin,  
 Duneyr a Dýratrór.
 
-[34](#34)  
+<a href="#34" id="34">34</a>  
 Četní hadi  
 číhají pod stromem,  
 četnější, než by člověk myslil:  
@@ -299,7 +299,7 @@ Ofni a Sváfni
 spásají větve  
 svatého stromu.
 
-[35](#35)  
+<a href="#35" id="35">35</a>  
 Jasan Yggdrasil  
 zlý osud snáší,  
 trpčí, než tuší lidé:  
@@ -307,7 +307,7 @@ jelen korunu hlodá,
 kořeny Nidhögg drtí  
 a ze strany trouchniví trup.
 
-[36](#36)  
+<a href="#36" id="36">36</a>  
 Hrist a Mist mi  
 roh s medovinou nosí,  
 Skeggjöld a Skögul,  
@@ -318,7 +318,7 @@ Rundgrid, Rádgríd
 a Reginleif  
 ty přinášejí padlým pivo.
 
-[37](#37)  
+<a href="#37" id="37">37</a>  
 Árvakr a Alsvinn  
 musí po obloze,  
 s námahou vozit slunce.  
@@ -326,7 +326,7 @@ Pod plecí hřebců
 přesvatí bohové  
 ukryli oceli chlad.
 
-[38](#38)  
+<a href="#38" id="38">38</a>  
 Svalin stojí  
 před jasným sluncem,  
 štít kryje štědrého boha.  
@@ -334,7 +334,7 @@ Háje i hory by
 shořely zcela,  
 kdyby přímým žhlo žárem.
 
-[39](#39)  
+<a href="#39" id="39">39</a>  
 Sköll je jméno vlka,  
 který za jasným jde božstvem  
 až k lemu lesa.  
@@ -342,7 +342,7 @@ A jiný vlk, Hati,
 Hródvitnův syn,  
 doprovází nevěstu nebes.
 
-[40](#40)  
+<a href="#40" id="40">40</a>  
 Z Ymiho masa  
 je uhnětena země  
 a z jeho potu jsou proudy vod;  
@@ -350,7 +350,7 @@ skály z jeho kostí
 a stromy z vlasů,  
 obloha je z obrovy lebky,
 
-[41](#41)  
+<a href="#41" id="41">41</a>  
 a z jeho brv  
 zbudovali bohové:  
 svět synům lidí.  
@@ -358,7 +358,7 @@ Z jeho mozku
 jsou chmurné mraky  
 všechny vytvořeny.
 
-[42](#42)  
+<a href="#42" id="42">42</a>  
 Ullova přízeň  
 a přízeň všech Ásů  
 tomu bude patřit,  
@@ -367,7 +367,7 @@ protože Ásům se
 otevře síň,  
 sotva se odsunou kotle.
 
-[43](#43)  
+<a href="#43" id="43">43</a>  
 Ívaldovi syni  
 ve svítání věků  
 lehkou zdělali loď,  
@@ -375,7 +375,7 @@ Skídbladni jménem,
 jasnému Freyovi,  
 Njördovu slavnému synu.
 
-[44](#44)  
+<a href="#44" id="44">44</a>  
 Jasan Yggdrasil  
 je nejlepší ze stromů  
 a Skídbladni ze skvělých lodí.  
@@ -386,7 +386,7 @@ ze skaldů Bragi,
 Hábrók z havranů,  
 Garm z hladných psů.
 
-[45](#45)  
+<a href="#45" id="45">45</a>  
 Svou tvář jsem teď zdvihl  
 k vítězným bohům,  
 spásu tak sklidím;  
@@ -395,7 +395,7 @@ až vejdou dovnitř,
 zasednou k AEgiho stolu,  
 z AEgiho poháru popijí.
 
-[46](#46)  
+<a href="#46" id="46">46</a>  
 Grím jsem si dal jméno  
 a Gangleri,  
 Herjan a Hjálmberi,  
@@ -403,7 +403,7 @@ Tekk a Tridi,
 Tud a Ud,  
 Helblindi a Hár;
 
-[47](#47)  
+<a href="#47" id="47">47</a>  
 Sad a Svipal  
 a Sanngetal,  
 Herteit a Hnikar,  
@@ -412,7 +412,7 @@ Bölverk, Fjölni,
 Grím a Grímni,  
 Glapsvinn a Fjölsvinn;
 
-[48](#48)  
+<a href="#48" id="48">48</a>  
 Sidhött, Sidskegg,  
 Sigfödr, Hnikud,  
 Alfödr, Valfödr,  
@@ -421,7 +421,7 @@ jen jedním jsem nikdy
 nebyl zván jménem  
 mezi bdělými bojovníky.
 
-[49](#49)  
+<a href="#49" id="49">49</a>  
 Grímni mě zvali  
 u Geirröda,  
 u Ásmunda Jálk,  
@@ -433,7 +433,7 @@ Vidur ve vojsku,
 Jafnhár a Biflindi,  
 Göndli a Hárbard mezi bohy.
 
-[50](#50)  
+<a href="#50" id="50">50</a>  
 Svidur a Svidri  
 jsem slul u Sökkmíma;  
 starého obra jsem oklamal,  
@@ -441,7 +441,7 @@ když jsem Midvítniho
 mocného syna  
 ranou sám skolil.
 
-[51](#51)  
+<a href="#51" id="51">51</a>  
 Jsi opilý, Geirröde,  
 příliš jsi pil;  
 o mnoho jsi přišel,  
@@ -449,7 +449,7 @@ pozbyv mé přátelství,
 Ódinovu přízeň,  
 a pomoc padlých.
 
-[52](#52)  
+<a href="#52" id="52">52</a>  
 Mnoho jsem promlouval,  
 málo však v paměť sis vryl:  
 přátele tví tě podvedou.  
@@ -457,7 +457,7 @@ Vidím meč ležet,
 jejž třímal můj přítel,  
 celý do krve zbrocený.
 
-[53](#53)  
+<a href="#53" id="53">53</a>  
 Mrtvého si nyní  
 odvede Ygg.  
 Vypršel, vidím, tvůj život.  
@@ -465,7 +465,7 @@ Dísy ti nepřejí -
 teď Ódina vidíš:  
 pojď ke mně, můžeš-li.
 
-[54](#54)  
+<a href="#54" id="54">54</a>  
 Ódin se teď jmenuji,  
 Ygg jsem slul dřív  
 a předtím Tund,  

@@ -3,7 +3,7 @@ title: Hymiskviða - Píseň o Hymim
 date: 2009-11-01
 ---
 
-[1](#1)  
+<a href="#1" id="1">1</a>  
 Kdys vládnoucí bohové  
 z lovu se vrátili  
 a hladoví se chystali  
@@ -13,7 +13,7 @@ pohlédli na los:
 patřili, že Aegi má  
 nadbytek pití.
 
-[2](#2)  
+<a href="#2" id="2">2</a>  
 Skalní obr  
 seděl jak chlapec,  
 podobný v tváři však  
@@ -23,7 +23,7 @@ přísně Tór:
 "Ásům teď", pravil,  
 "připravíš hody."
 
-[3](#3)  
+<a href="#3" id="3">3</a>  
 Starost obrovi  
 sevřela srdce.  
 Přemýšlel, jak by se  
@@ -35,7 +35,7 @@ Sifjin manžel:
 "Připravit v něm chci  
 všem bohům pivo."
 
-[4](#4)  
+<a href="#4" id="4">4</a>  
 Svatí bohové  
 marně jej scháněli,  
 mocní Ásové  
@@ -45,7 +45,7 @@ Tórovi sdělil,
 kde by s jistotou  
 kotel našel.
 
-[5](#5)  
+<a href="#5" id="5">5</a>  
 "Na východ Elivág  
 obr bydlí.  
 nezkrotný Hymi,  
@@ -55,7 +55,7 @@ má mohutný kotel,
 široký mnoho stop  
 a stejně hluboký."
 
-[6](#6)  
+<a href="#6" id="6">6</a>  
 Tór:  
 "Víš jistě, že získáme  
 ten vařič vod?"
@@ -64,7 +64,7 @@ Týr:
 "Jistě, když patřičné  
 ukujem pikle."
 
-[7](#7)  
+<a href="#7" id="7">7</a>  
 Vyjeli z Ásgardu  
 s veselou myslí  
 a večer se dostali  
@@ -74,7 +74,7 @@ s krásnými rohy.
 Sami pak spěchali  
 v Hymiho síň.
 
-[8](#8)  
+<a href="#8" id="8">8</a>  
 Týr pramáti svou  
 protivnou spatřil,  
 devět set hlav  
@@ -84,7 +84,7 @@ s paprsky brv
 v pohár lít  
 synovi pivo.
 
-[9](#9)  
+<a href="#9" id="9">9</a>  
 "Synu obrů,  
 skrýt vás musím,  
 odvážné dva reky,  
@@ -94,7 +94,7 @@ málokdy je
 přívětiv k hostům  
 a pohostinný."
 
-[10](#10)  
+<a href="#10" id="10">10</a>  
 Pozdě se vrátil  
 proradný obr,  
 lakomý Hymi,  
@@ -104,7 +104,7 @@ zazvonily ledy,
 zmrzlou měl bradu,  
 zjíněný vous.
 
-[11](#11)  
+<a href="#11" id="11">11</a>  
 "Zdráv buď, Hymi,  
 zprávu mám pro tebe:  
 v tvé síně ti právě  
@@ -116,7 +116,7 @@ protivník Hródův,
 věrný přítel lidí,  
 Mocný Véor.
 
-[12](#12)  
+<a href="#12" id="12">12</a>  
 Tam, hle, sedí  
 pod štítem síně,  
 aby se za sloupem  
@@ -126,7 +126,7 @@ před zrakem obra,
 ve dví praskl  
 dubový trám.
 
-[13](#13)  
+<a href="#13" id="13">13</a>  
 Osm kutých  
 spadlo kotlů,  
 zůstal jen jeden  
@@ -136,7 +136,7 @@ a starý obr si
 pohledem změřil  
 protivníka.
 
-[14](#14)  
+<a href="#14" id="14">14</a>  
 Nic dobrého mu  
 neřekla mysl,  
 když v síni uviděl  
@@ -148,13 +148,13 @@ sekyrou hlavy
 a položit je  
 nad plameny.
 
-[15](#15)  
+<a href="#15" id="15">15</a>  
 Sifjin muž snědl,  
 než šel spát,  
 sám dva Hymiho  
 silné býky.
 
-[16](#16)  
+<a href="#16" id="16">16</a>  
 Starému druhu  
 Hrungniho se zdál  
 oběd Hlórridův  
@@ -164,13 +164,13 @@ spokojit muset
 všichni tři  
 s výtěžkem lovu."
 
-[17](#17)  
+<a href="#17" id="17">17</a>  
 Véor chtěl hned  
 k veslům si sednout,  
 kdyby dal návnadu  
 na udici obr.
 
-[18](#18)  
+<a href="#18" id="18">18</a>  
 Hymi:  
 "Jdi, vrahu obrů,  
 odvahu máš-li,  
@@ -183,7 +183,7 @@ na udici
 vnadidlem vábivým  
 volskou hlavu."
 
-[19](#19)  
+<a href="#19" id="19">19</a>  
 Mládenec rychle  
 se rozběhl k lesu,  
 aby tu číhal  
@@ -193,7 +193,7 @@ strhl ranou
 rozložitý hrad  
 obou rohů.
 
-[20](#20)  
+<a href="#20" id="20">20</a>  
 Hymi:  
 "Hroznější v činech se  
 Hymimu zdáš,  
@@ -202,7 +202,7 @@ u jídla sedíš."
 ............  
 ............
 
-[21](#21)  
+<a href="#21" id="21">21</a>  
 Kníže kozlů  
 řek králi opic,  
 by s hřebcem vln  
@@ -212,7 +212,7 @@ v odpověď pravil,
 že málo touží  
 po širém moři.
 
-[22](#22)  
+<a href="#22" id="22">22</a>  
 Statný Hymi  
 sám dvě velryby  
 vylovil udicí  
@@ -222,7 +222,7 @@ záštita Ásů,
 Véor, umně  
 vytáčel šňůru.
 
-[23](#23)  
+<a href="#23" id="23">23</a>  
 Zhoubce obrů,  
 zachránce lidí  
 na udici vetkl  
@@ -234,7 +234,7 @@ chtivě chňap had,
 který obepíná  
 okrsek země.
 
-[24](#24)  
+<a href="#24" id="24">24</a>  
 Statečně táhl  
 silný Tór  
 jedovatou saň  
@@ -244,7 +244,7 @@ v ošklivou hlavu
 věrného bratra  
 zhoubného vlka.
 
-[25](#25)  
+<a href="#25" id="25">25</a>  
 Zařval netvor  
 země se zachvěla,  
 pukaly skály,  
@@ -253,7 +253,7 @@ pukaly skály,
 potom se ryba  
 ponořila do moře.
 
-[26](#26)  
+<a href="#26" id="26">26</a>  
 ............  
 Neveselý byl obr,  
 když nazpět pluli,  
@@ -262,7 +262,7 @@ mluvit přestal,
 vesloval prudce  
 proti břehu.
 
-[27](#27)  
+<a href="#27" id="27">27</a>  
 Hymi:  
 "Chceš se podělit  
 o práci se mnou  
@@ -271,7 +271,7 @@ odtud domů,
 či k břehu chceš přivázat  
 berana vln?"
 
-[28](#28)  
+<a href="#28" id="28">28</a>  
 Přistoupil Hlórridi,  
 chopil se přídě,  
 pozdvihl hřebce vln  
@@ -283,7 +283,7 @@ obrovskou loď
 přes horské hřbety,  
 porostlé hvozdem.
 
-[29](#29)  
+<a href="#29" id="29">29</a>  
 Zavilý obr však  
 zápasit dál chtěl,  
 hádkám zvyklý,  
@@ -293,7 +293,7 @@ nestačí vládnout,
 že rek jen ten je,  
 kdo rozbije pohár.
 
-[30](#30)  
+<a href="#30" id="30">30</a>  
 Sotva jej do rukou  
 Hlórridi dostal,  
 hned strmý prorazil  
@@ -303,7 +303,7 @@ sloup ve dva kusy;
 pohár však celý  
 mu podali zpátky.
 
-[31](#31)  
+<a href="#31" id="31">31</a>  
 Tu mocného obra  
 milostnice  
 Ásovi k radosti  
@@ -313,7 +313,7 @@ pohárem v hlavu,
 která nad každý  
 kalich je tvrdší."
 
-[32](#32)  
+<a href="#32" id="32">32</a>  
 Ohnul se v kolenou  
 kozlů vládce  
 a vší se oděl  
@@ -323,7 +323,7 @@ obrovy přilby,
 praskl však ve dví  
 na víno pohár.
 
-[33](#33)  
+<a href="#33" id="33">33</a>  
 Hymi:  
 "Vzácný klenot mi  
 věru byl vzat,  
@@ -334,7 +334,7 @@ A dál mluvil obr:
 nikdy už říct:  
 hotov jsi, nápoji!
 
-[34](#34)  
+<a href="#34" id="34">34</a>  
 Však ještě jednu si  
 podmínku stavím:  
 přineste mi ze dvora  
@@ -344,7 +344,7 @@ dvakrát jím pohnout,
 nehnula se však  
 obrova nádrž.
 
-[35](#35)  
+<a href="#35" id="35">35</a>  
 Módiho otec pak  
 jej uchopil za kraj  
 a klidný kráčel  
@@ -354,7 +354,7 @@ kotle přetáh,
 o kotníky mu zvonily  
 jeho ostruhy.
 
-[36](#36)  
+<a href="#36" id="36">36</a>  
 Neujeli daleko,  
 když nazpět pohlédl  
 Ódinův syn  
@@ -364,7 +364,7 @@ s Hymim se žene
 od východu  
 veliký dav.
 
-[37](#37)  
+<a href="#37" id="37">37</a>  
 Sundal kotel  
 se svých ramen,  
 zamával Mjöllnim,  
@@ -372,7 +372,7 @@ mrtvol chtivým,
 a pobil všechny  
 velryby pouště.
 
-[38](#38)  
+<a href="#38" id="38">38</a>  
 Neujeli daleko,  
 když náhle si lehl,  
 na zem klesl  
@@ -382,7 +382,7 @@ ochroml náhle.
 Lstivý to byl  
 Lokiho čin.
 
-[39](#39)  
+<a href="#39" id="39">39</a>  
 Slyšeli jste  
 -a sotva kdo vám  
 poví lépe  
@@ -392,7 +392,7 @@ poskytl obr,
 jenž obě své děti  
 dát musel v náhradu.
 
-[40](#40)  
+<a href="#40" id="40">40</a>  
 Bez bázně přišel  
 Tór na sněm bohů,  
 třímaje kotel,  

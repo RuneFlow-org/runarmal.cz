@@ -5,7 +5,7 @@ date: 2009-11-01
 
 Njördův syn Frey usedl jednoho dne v Hlídskjálfu a rozhlížel se po všech světech. Pohlédl k světu obrů a uviděl tam krásnou dívku, jak se ubírá z otcovy síně do stavení se zásobami. Od té doby se soužil ve svém srdci. Skírni se jmenoval Freyův služebník. Njörd ho požádal, aby vyhledal Freye a promluvil s ním. Tu pravila Skadi:
 
-[1](#1)  
+<a href="#1" id="1">1</a>  
 "Povstaň, Skírni,  
 a spěchej rychle  
 navštívit našeho syna.  
@@ -13,7 +13,7 @@ Zeptej se ho,
 komu hněv platí  
 moudrého mládce."
 
-[2](#2)  
+<a href="#2" id="2">2</a>  
 _Skírni:_  
 "Zlých slov se mi dostane  
 od vašeho syna,  
@@ -24,7 +24,7 @@ moudrého mládce."
 
 _Skírni vkročí k Freyovi a osloví ho:_
 
-[3](#3)  
+<a href="#3" id="3">3</a>  
 "Pověz mi, Freyi,  
 vůdce pluků,  
 co vědět bych věru chtěl:  
@@ -32,7 +32,7 @@ proč sám sedíš
 v širé síni  
 po celý, pane, den?"
 
-[4](#4)  
+<a href="#4" id="4">4</a>  
 _Frey:_  
 "Jak, mladý muži,  
 ti povědět mám  
@@ -41,7 +41,7 @@ Zářivé slunce
 svítí všechny dny,  
 leč ne mé lásce."
 
-[5](#5)  
+<a href="#5" id="5">5</a>  
 _Skírni:_  
 "tvá bolest není  
 jistě tak bezbřehá,  
@@ -50,7 +50,7 @@ Vždyť spolu jsme od dětství
 vyrůstali,  
 my dva si můžeme důvěřovat."
 
-[6](#6)  
+<a href="#6" id="6">6</a>  
 _Frey:_  
 "V Gymově paláci  
 jsem viděl se procházet  
@@ -59,7 +59,7 @@ Paže jí zářily
 a od nich se zažehl  
 vzduch i vod vlny.
 
-[7](#7)  
+<a href="#7" id="7">7</a>  
 Žádnému není  
 ta žena tak drahá  
 jak mému mládí.  
@@ -67,7 +67,7 @@ Nikdo z Ásů však
 ni z Álfů nám nepřeje,  
 bychom se těšili spolu."
 
-[8](#8)  
+<a href="#8" id="8">8</a>  
 _Skírni:_  
 "Koně mi dej,  
 který mě přenese  
@@ -76,7 +76,7 @@ a silný meč,
 který sám seká  
 do ukrutných obrů."
 
-[9](#9)  
+<a href="#9" id="9">9</a>  
 _Frey:_  
 "Koně ti přivedu,  
 který tě přenese  
@@ -86,7 +86,7 @@ který sám seká
 v ruce statného reka."  
 _Skírni promlouvá ke koni:_
 
-[10](#10)  
+<a href="#10" id="10">10</a>  
 "Venku je tma,  
 je čas se vypravit  
 přes zrosené rokle  
@@ -99,7 +99,7 @@ _Skírni přijel do Gymiho dvorce v kraji obrů. Před branou ohrady,_
 _která stála kolem Gerdiny síně, byli uvázáni zlí psi._  
 _Skírni zamířil k pastýři, který seděl na pahorku, a oslovil ho:_
 
-[11](#11)  
+<a href="#11" id="11">11</a>  
 "Pověz mi, pastýři,  
 který na pahorku sedíš  
 a všechny střezíš stezky:  
@@ -107,7 +107,7 @@ bude mi možno
 s mladou dívkou mluvit  
 pro Gymiho psy?"
 
-[12](#12)  
+<a href="#12" id="12">12</a>  
 _Pastýř:_  
 "Propadls smrti,  
 či jsi už mrtev?  
@@ -117,7 +117,7 @@ není ti souzeno
 slovo si vyměnit  
 s Gymiho dobrou dcerou."
 
-[13](#13)  
+<a href="#13" id="13">13</a>  
 _Skírni:_  
 "Bědování  
 jen bránit může  
@@ -126,7 +126,7 @@ Můj věk mi byl určen
 na jediný den,  
 cesta celého života."
 
-[14](#14)  
+<a href="#14" id="14">14</a>  
 _Gerd:_  
 "Jaké to dunění  
 se z venku dere  
@@ -135,13 +135,13 @@ Země se chvěje,
 v základech se třese  
 Gymovy dubové dvorce."
 
-[15](#15)  
+<a href="#15" id="15">15</a>  
 _Služebná:_  
 "Muž silný je venku.  
 Sestoupil s koně  
 a na louku ho pustil pást."
 
-[16](#16)  
+<a href="#16" id="16">16</a>  
 _Gerd:_  
 "Pozvi ho dovnitř  
 do naší síně  
@@ -152,7 +152,7 @@ vrah mého bratra."
 
 _Vstoupí Skírni, Gerd ho osloví:_
 
-[17](#17)  
+<a href="#17" id="17">17</a>  
 "Patříš snad k Álfům,  
 či k synům Ásů,  
 anebo k věčným Vanům?  
@@ -160,7 +160,7 @@ Jak jsi sám pronikl
 plameny ohně,  
 bys naše shlédl síně?"
 
-[18](#18)  
+<a href="#18" id="18">18</a>  
 _Skírni:_  
 "Nepatřím k Álfům  
 ni k Ásů synům,  
@@ -169,7 +169,7 @@ A přec jsem sám pronikl
 plameny ohně,  
 bych vaše shlédl síně.
 
-[19](#19)  
+<a href="#19" id="19">19</a>  
 Jedenáct zářivě  
 zlatých mám jablek,  
 ty všechny ti věnuji, Gerdo.  
@@ -177,7 +177,7 @@ Lásku tvou získat chci,
 bys zvala Freye  
 svým drahým druhem."
 
-[20](#20)  
+<a href="#20" id="20">20</a>  
 _Gerd:_  
 "Jedenáct jablek  
 jakživa nepřijmu  
@@ -186,7 +186,7 @@ Nikdy, Freyi,
 nám nebude souzeno  
 v objetí spolu spát."
 
-[21](#21)  
+<a href="#21" id="21">21</a>  
 _Skírni:_  
 "Prsten ti dám,  
 který v plamenech byl  
@@ -195,7 +195,7 @@ Osm stejně těžkých
 s něho stéká  
 každý devátý den."
 
-[22](#22)  
+<a href="#22" id="22">22</a>  
 _Gerd:_  
 "Nepřijmu prsten,  
 i když v plamenech byl  
@@ -204,7 +204,7 @@ Mám dosti zlata
 v Gymových dvorech,  
 můj je všechen majetek otcův."
 
-[23](#23)  
+<a href="#23" id="23">23</a>  
 _Skírni:_  
 "Vidíš, má děvo, tento meč,  
 tenký a runami zdobený,  
@@ -213,7 +213,7 @@ Srdce ti probodnu
 úderem smělým,  
 neslíbíš-li mi lásku."
 
-[24](#24)  
+<a href="#24" id="24">24</a>  
 _Gerd:_  
 "Nikdo mě násilím  
 nedonutí  
@@ -222,7 +222,7 @@ Ty však se střez!
 Gymi-li tě spatří,  
 jistě se s tebou střetne."
 
-[25](#25)  
+<a href="#25" id="25">25</a>  
 _Skírni:_  
 "Vidíš, má děvo, tento meč,  
 tenký a runami zdobený,  
@@ -231,7 +231,7 @@ Pod tím ostřím
 padne starý obr,  
 smrt stihne tvého otce.
 
-[26](#26)  
+<a href="#26" id="26">26</a>  
 Kroticím prutem  
 zkrotím tvůj odpor,  
 že vůli mou vyplníš.  
@@ -239,7 +239,7 @@ Odejdeš pak
 v odlehlá místa,  
 kde tě nikdo už neuzří.
 
-[27](#27)  
+<a href="#27" id="27">27</a>  
 Na orlí skále  
 budeš zrána sedět  
 k světu zády,  
@@ -248,7 +248,7 @@ pokrm ti buď protivnější,
 než pokojným lidem je  
 hladký had.
 
-[28](#28)  
+<a href="#28" id="28">28</a>  
 Strašnou buď obludou  
 všem, kdo tě spatří.  
 Hrímni ať na tebe hledí,  
@@ -257,7 +257,7 @@ Buď pověstnější
 než bohů pátravá stráž!  
 U mříže mrtvých se mrač!
 
-[29](#29)  
+<a href="#29" id="29">29</a>  
 Vzdychej a trap se  
 prudkou touhou,  
 strast ať tě k slzám nutí!  
@@ -266,7 +266,7 @@ a já ti povím
 o příboji příkoří,  
 o tíži touhy.
 
-[30](#30)  
+<a href="#30" id="30">30</a>  
 Děsit tě budou  
 běsové celý den  
 v ohradách obrů.  
@@ -278,7 +278,7 @@ pláč ti buď jen
 potěchou trápení  
 a slzami svlažuj svou bolest.
 
-[31](#31)  
+<a href="#31" id="31">31</a>  
 S tříhlavým obrem  
 se těšit budeš,  
 anebo muže nebudeš mít.  
@@ -288,13 +288,13 @@ buď jako bodlák,
 vyhozené býlí  
 z otýpky obilí.
 
-[32](#32)  
+<a href="#32" id="32">32</a>  
 Šel jsem do háje,  
 do svěžího hloží  
 krotící prut si připravit,  
 krotící prut jsem si připravil.
 
-[33](#33)  
+<a href="#33" id="33">33</a>  
 Zlost má na tě Ódin,  
 zlost má kníže Ásů,  
 furií budeš Freyovi,  
@@ -302,7 +302,7 @@ ty drzá děvko!
 V dík se ti dostane  
 hrozný hněv bohů.
 
-[34](#34)  
+<a href="#34" id="34">34</a>  
 Slyště obři,  
 slyšte, tursové,  
 synové Suttunga,  
@@ -312,12 +312,12 @@ jak zakazuji
 dívce dovádět s muži,  
 dívce milovat muže.
 
-[35](#35)  
+<a href="#35" id="35">35</a>  
 Hrímgrímni obr ať  
 tvé tělo uchvátí  
 před mříží podsvětí.
 
-[36](#36)  
+<a href="#36" id="36">36</a>  
 Tam ať ti skřítkové  
 na kořenech stromu  
 naplní krajáč  
@@ -327,7 +327,7 @@ ať nikdy nedostaneš,
 panno, podle svého přání,  
 panno, podle mého přání.
 
-[37](#37)  
+<a href="#37" id="37">37</a>  
 Tursovu runu ti vyryji  
 a tři jiné:  
 chlípnost, šílenství, žádost.  
@@ -335,7 +335,7 @@ Mohu je vyhladit,
 jak jsem je vyryl,  
 bude-li toho třeba."
 
-[38](#38)  
+<a href="#38" id="38">38</a>  
 _Gerd:_  
 "Zdráv buď, příteli,  
 a přijmi pohár,  
@@ -344,7 +344,7 @@ Nikdy jsem nemyslila,
 že někdy získám  
 lásku věčného Vana."
 
-[39](#39)  
+<a href="#39" id="39">39</a>  
 _Skírni:_  
 "Jak se svým poselstvím  
 jsem pořídil, pověz,  
@@ -353,7 +353,7 @@ Kdy se setkat chceš
 s Njördovým synem  
 a přízeň mu projevit?"
 
-[40](#40)  
+<a href="#40" id="40">40</a>  
 _Gerd:_  
 "Barri se jmenuje  
 borový háj,  
@@ -365,7 +365,7 @@ slast své lásky."
 _Tu odjel Skírni domů. Frey, který stál venku, se ho zeptal,_  
 _jaké noviny přináší:_
 
-[41](#41)  
+<a href="#41" id="41">41</a>  
 "Pověz mi, Skírni,  
 než sedlo odepneš  
 a odneseš odtud,  
@@ -373,7 +373,7 @@ a odneseš odtud,
 v říši obrů  
 po našem přání?"
 
-[42](#42)  
+<a href="#42" id="42">42</a>  
 _Skírni:_  
 "Barri se jmenuje  
 borový háj,  
@@ -382,7 +382,7 @@ za devět dní tam Gerd
 dopřeje Njördovu synu  
 slast své lásky."
 
-[43](#43)  
+<a href="#43" id="43">43</a>  
 _Frey:_  
 "Dlouhá je noc  
 a delší dvě.  

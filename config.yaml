@@ -3,6 +3,11 @@ languageCode: cz-cs
 title: Rûnarmál
 googleAnalytics: G-NZ2HLBWXB0
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 params:
   description: 'Rûnarmál | Ásatrú, runy, severská mytologie a Vikingové'
   customDateFormat: 'Jan 1, 2019'

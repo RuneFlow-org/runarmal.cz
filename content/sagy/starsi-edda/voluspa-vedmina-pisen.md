@@ -3,7 +3,7 @@ title: Völuspá - Vědmina píseň
 date: 2009-11-01
 ---
 
-[1](#1)  
+<a href="#1" id="1">1</a>  
 Slyšte mě, všechny  
 svaté rody,  
 první i poslední,  
@@ -13,7 +13,7 @@ věrně bych řekla
 prastaré zvěsti,  
 jež v paměti mám.
 
-[2](#2)  
+<a href="#2" id="2">2</a>  
 Vzpomínám obrů  
 z počátku věků,  
 z nichž jsem se tehdy  
@@ -23,7 +23,7 @@ devět říší,
 hloubku znám kořenů  
 slavného stromu.
 
-[3](#3)  
+<a href="#3" id="3">3</a>  
 V úsvitu věků  
 jen Ymi vládl,  
 nebylo moře  
@@ -33,7 +33,7 @@ ni nahoře nebe,
 jen pustá, bez trávy  
 zela propast.
 
-[4](#4)  
+<a href="#4" id="4">4</a>  
 Až zemi Burovi  
 syni zdvihli,  
 ti, kteří světlý  
@@ -43,7 +43,7 @@ v kamenná sídla,
 země zarostla  
 zelení trav.
 
-[5](#5)  
+<a href="#5" id="5">5</a>  
 Slavný druh měsíce,  
 slunce, z jihu  
 kraj oblohy pravou  
@@ -55,7 +55,7 @@ kde jejich místa,
 měsíc nevěděl,  
 jakou má moc.
 
-[6](#6)  
+<a href="#6" id="6">6</a>  
 Tu vládcové světa  
 na stolce zasedli,  
 přesvatí bohové,  
@@ -67,7 +67,7 @@ a poledni rovněž,
 svítání, večeru,  
 k výměře času.
 
-[7](#7)  
+<a href="#7" id="7">7</a>  
 Sešli se Ásové  
 na Idské pláni,  
 co posvátné chrámy  
@@ -77,7 +77,7 @@ tepali zlato,
 zrobili kleště,  
 kdejaký nástroj.
 
-[8](#8)  
+<a href="#8" id="8">8</a>  
 Hráli v kostky,  
 v hojnosti žili,  
 nic jim ze zlata  
@@ -87,7 +87,7 @@ olbřímí ženy,
 osudu vládkyně,  
 z domova obrů.
 
-[9](#9)  
+<a href="#9" id="9">9</a>  
 Tu vládcové světa  
 na stolce zasedli,  
 přesvatí bohové,  
@@ -97,7 +97,7 @@ měl skřítky stvořit
 z Brimiho krve,  
 z Bláinových kostí.
 
-[10](#10)  
+<a href="#10" id="10">10</a>  
 Nejmocnější byl  
 Mótsogni stvořen  
 ze všech skřítků  
@@ -107,7 +107,7 @@ postavy mnohé,
 podobné lidem,  
 jak Durin děl.
 
-[11](#11)  
+<a href="#11" id="11">11</a>  
 Nýi a Nidi,  
 Nordi a Sudri,  
 Austri a Vestri,  
@@ -117,7 +117,7 @@ Bömbur, Nóri,
 Ánn a Anar,  
 Ái, Mjödvitni.
 
-[12](#12)  
+<a href="#12" id="12">12</a>  
 Veig a Gándalf,  
 Vindálf, Tráin  
 Tekk a Torin,  
@@ -127,7 +127,7 @@ Nýrad a Rádsvid,
 to je jmen skřítků  
 správný výčet.
 
-[13](#13)  
+<a href="#13" id="13">13</a>  
 Fíli, Kíli,  
 Fundin, Náli,  
 Hepti, Víli,  
@@ -137,7 +137,7 @@ Frég a Lóni,
 Aurvang, Jari,  
 Eikinskjaldi.
 
-[14](#14)  
+<a href="#14" id="14">14</a>  
 Čas je vyčíst  
 všechny skřítky  
 z družiny Dvalina  
@@ -147,7 +147,7 @@ ze skalních sídel
 na písečné pláně  
 Jörovallské.
 
-[15](#15)  
+<a href="#15" id="15">15</a>  
 Byl to Draupni  
 a Dólgtrasi,  
 Hár, Haugspori,  
@@ -155,7 +155,7 @@ Hlévang, Glói,
 Skirvi, Virvi,  
 Skafinn, Ái.
 
-[16](#16)  
+<a href="#16" id="16">16</a>  
 Álf a Yngvi,  
 Eikinskjaldi.  
 Fjalar a Frosti,  
@@ -165,7 +165,7 @@ pokud žít budou
 na světě lidé,  
 Lofarův rod.
 
-[17](#17)  
+<a href="#17" id="17">17</a>  
 Až tři přišli  
 z posvátné družiny,  
 tři Ásové  
@@ -175,7 +175,7 @@ nemohoucí
 Aska a Emblu  
 bez osudu.
 
-[18](#18)  
+<a href="#18" id="18">18</a>  
 Neměli dechu,  
 ni ducha, ni vůli,  
 červeň v tváři,  
@@ -185,7 +185,7 @@ ducha Hoeni,
 líbeznost tváře  
 laskavý Lódur.
 
-[19](#19)  
+<a href="#19" id="19">19</a>  
 Vím jasan kde stojí,  
 Yggdrasil jménem,  
 vysoký strom,  
@@ -195,7 +195,7 @@ nad Urdinou studní.
 Odtud vláha  
 v údolí padá.
 
-[20](#20)  
+<a href="#20" id="20">20</a>  
 Odtud tři děvy,  
 divů znalé,  
 přicházejí z bytu  
@@ -209,7 +209,7 @@ uhnětly život,
 lidí dětem  
 změřily dni.
 
-[21](#21)  
+<a href="#21" id="21">21</a>  
 Vím, jak první  
 vražda v svět přišla,  
 když Gullveigu  
@@ -221,7 +221,7 @@ třikrát zrozenou,
 znovu a opět -  
 stále přec žije.
 
-[22](#22)  
+<a href="#22" id="22">22</a>  
 Heid ji zvali,  
 hostem kam přišla,  
 prorockou vědmu,  
@@ -230,7 +230,7 @@ jež čarami mysl mátla,
 žádoucí však vždy  
 byla zlým ženám.
 
-[23](#23)  
+<a href="#23" id="23">23</a>  
 Tu vládcové světa  
 na stolce zasedli,  
 přesvatí bohové,  
@@ -240,7 +240,7 @@ výkupné splatit,
 či oběti budou  
 bohům všem patřit.
 
-[24](#24)  
+<a href="#24" id="24">24</a>  
 Oštěpem mrštil  
 do nepřátel Ódin.  
 To byla první  
@@ -250,7 +250,7 @@ zdi hradu Ásů.
 Bojovní Vanové  
 vytrhli válčit.
 
-[25](#25)  
+<a href="#25" id="25">25</a>  
 Tu vládcové světa  
 na stolce zasedli,  
 přesvatí bohové,  
@@ -260,17 +260,17 @@ neštěstím hrozným,
 kdo obrů rodu dal  
 Ódovu dívku.
 
-[26](#26)  
+<a href="#26" id="26">26</a>  
 Jen Thór se bil  
 zachvácen běsem  
-- nezůstal sedět,  
+\- nezůstal sedět,  
 když slyšel tu zvěst -  
 zpřetrhány jsou  
 přísahy, sliby,  
 silná slova,  
 navzájem daná.
 
-[27](#27)  
+<a href="#27" id="27">27</a>  
 Vím, kde skryt je  
 Heimdallův roh  
 pod světlou korunou  
@@ -280,7 +280,7 @@ vlhký naň proud
 ze zástavy vládce -  
 Ví někdo víc?
 
-[28](#28)  
+<a href="#28" id="28">28</a>  
 Sama jsem seděla,  
 když stařec přišel,  
 hrozný Ódin,  
@@ -296,7 +296,7 @@ každé ráno
 ze zástavy vládce -  
 Ví někdo víc?
 
-[29](#29)  
+<a href="#29" id="29">29</a>  
 Vybral pro mne  
 vládce šperky,  
 dal prorocký pohled mi  
@@ -304,7 +304,7 @@ v příští věky.
 Z světů žádný mně  
 zatajen není.
 
-[30](#30)  
+<a href="#30" id="30">30</a>  
 Zřela jsem valkyrje,  
 válečné ženy,  
 hotové k jízdě  
@@ -318,7 +318,7 @@ Herjanovy děvy,
 valkyrje, hotové  
 v pole vyjet.
 
-[31](#31)  
+<a href="#31" id="31">31</a>  
 Zřela jsem, jak Baldrovi,  
 Ódinovu synu,  
 určena byla  
@@ -328,7 +328,7 @@ jsem viděla vyrůstat
 větévku zelenou  
 zdobného jmelí.
 
-[32](#32)  
+<a href="#32" id="32">32</a>  
 Z toho prutu,  
 jenž útlý zdál se,  
 zbraň hrozná vzešla,  
@@ -340,7 +340,7 @@ jednu noc starý,
 v boj se pustil,  
 by pomstil zločin.
 
-[33](#33)  
+<a href="#33" id="33">33</a>  
 Ruce nemyl,  
 nečesal hlavu,  
 až na hranici byl  
@@ -350,7 +350,7 @@ nad přetrpkou ztrátou,
 bolestí Valhally -  
 Ví někdo víc?
 
-[34](#34)  
+<a href="#34" id="34">34</a>  
 V poutech jsem viděla  
 pod hájem zřídel  
 ležet Lokiho,  
@@ -360,13 +360,13 @@ nad svým mužem
 ve velkém bolu -  
 Ví někdo víc?
 
-[35](#35)  
+<a href="#35" id="35">35</a>  
 Ostrými meči  
 údolím jedu  
 od východu spadá  
 řeka Slíd.
 
-[36](#36)  
+<a href="#36" id="36">36</a>  
 Stála na severu  
 na Nidských pláních  
 ze zlata síň  
@@ -376,7 +376,7 @@ na Vlahém vrchu
 hodovní síň  
 obra Brima.
 
-[37](#37)  
+<a href="#37" id="37">37</a>  
 Síň jsem stát zřela  
 od slunce daleko  
 na mrtvých břehu  
@@ -386,7 +386,7 @@ kapají střechou,
 stěny jsou z hadích  
 spleteny hřbetů.
 
-[38](#38)  
+<a href="#38" id="38">38</a>  
 Zřela jsem brodit se  
 bažinami  
 vrahy a přátele  
@@ -398,7 +398,7 @@ na pohřbených mužích,
 vlk trhal těla -  
 Ví někdo víc?
 
-[39](#39)  
+<a href="#39" id="39">39</a>  
 Stařena seděla  
 v Železném lese,  
 o život pečujíc  
@@ -408,7 +408,7 @@ zvlášť zhoubcem bude
 tváři slunce,  
 v podobě trolla.
 
-[40](#40)  
+<a href="#40" id="40">40</a>  
 Masem se plní  
 mrtvých mužů,  
 bohů trůny  
@@ -418,7 +418,7 @@ nastávají léta
 lítých bouří -  
 Ví někdo víc?
 
-[41](#41)  
+<a href="#41" id="41">41</a>  
 Na hoře seděl,  
 na harfu hrál  
 obryně strážce,  
@@ -427,7 +427,7 @@ Blízko mu pěl
 z ptačího háje  
 jasný kohout,
 
-[42](#42)  
+<a href="#42" id="42">42</a>  
 Zlatý hřebenáč  
 zpíval ásům.  
 Ten budí reky,  
@@ -437,7 +437,7 @@ pod zemí dole,
 krvavý kohout  
 v komnatách Helje.
 
-[43](#43)  
+<a href="#43" id="43">43</a>  
 Garm hrozně vyje  
 před gnipskou slují.  
 Pouta pukají,  
@@ -447,7 +447,7 @@ do dálek zřím,
 přehrozný pád vidím  
 vlády bohů.
 
-[44](#44)  
+<a href="#44" id="44">44</a>  
 Bratr bude  
 bojovat s bratrem,  
 sourozenci zničí  
@@ -463,7 +463,7 @@ nechce šetřit,
 až celý svět  
 propadne zkáze.
 
-[45](#45)  
+<a href="#45" id="45">45</a>  
 Vzrušeni jsou  
 Mímiho syni,  
 hlas Gjallarhornu  
@@ -473,13 +473,13 @@ Heimdallův roh,
 Ódin mluví  
 s Mímiho hlavou.
 
-[46](#46)  
+<a href="#46" id="46">46</a>  
 Starý jasan,  
 slavný Yggdrasil,  
 chvěje se v kořenech,  
 vlk pouta trhá.
 
-[47](#47)  
+<a href="#47" id="47">47</a>  
 Garm hrozně vyje  
 před Gnipskou slují.  
 Pouta pukají,  
@@ -489,7 +489,7 @@ do dálek zřím,
 přehrozný pád vidím  
 vlády bohů.
 
-[48](#48)  
+<a href="#48" id="48">48</a>  
 Hrým jede z východu  
 se zdviženým štítem  
 hrozný had  
@@ -499,7 +499,7 @@ Orel křičí,
 vrhá se na mrtvé.  
 Vyplouvá Naglfar.
 
-[49](#49)  
+<a href="#49" id="49">49</a>  
 Loď pluje z východu  
 s lidmi z Múspellu,  
 přes řvoucí moře.  
@@ -509,7 +509,7 @@ jdou síly hrůzy,
 s nimi se Býleifův  
 žene bratr.
 
-[50](#50)  
+<a href="#50" id="50">50</a>  
 Co je s Ásy,  
 co je s álfy?  
 Hřmí říše obrů,  
@@ -519,7 +519,7 @@ před skalní branou,
 vládci slojí -  
 Ví někdo víc?
 
-[51](#51)  
+<a href="#51" id="51">51</a>  
 Surt jede z jihu  
 se zhoubcem větví,  
 meče se blýskají  
@@ -531,7 +531,7 @@ putují muži,
 nebe se roztrhlo  
 rachotem hromu.
 
-[52](#52)  
+<a href="#52" id="52">52</a>  
 Tu bohyni vzchází  
 nová bolest,  
 když Ódin se vydá  
@@ -541,7 +541,7 @@ skvělý vítěz.
 Tehdy své štěstí  
 ztratí Frigg.
 
-[53](#53)  
+<a href="#53" id="53">53</a>  
 Tu Sigtýrův  
 přichází syn,  
 mocný Vídar,  
@@ -551,7 +551,7 @@ Hvadrungovu synu
 probodne srdce.  
 Pomstěn je otec.
 
-[54](#54)  
+<a href="#54" id="54">54</a>  
 Tu proti netvoru  
 přichází slavný  
 Hlódynin syn  
@@ -560,13 +560,13 @@ Podlehne sani
 plné zloby  
 mocný ochránce  
 celého Midgardu  
-- mužové domovy  
+\- mužové domovy  
 opustit musí -  
 devět kroků stěží  
 drakovi uhnul Fjörgynin syn,  
 bez hany vládce.
 
-[55](#55)  
+<a href="#55" id="55">55</a>  
 Slunce se tmí,  
 v moři zem tone,  
 do hlubin padají  
@@ -576,7 +576,7 @@ pohlcují,
 sahá žár ohně  
 k samému nebi.
 
-[56](#56)  
+<a href="#56" id="56">56</a>  
 Garm hrozně vyje  
 před Gnipskou slují.  
 Pouta pukají,  
@@ -586,7 +586,7 @@ do dálek zřím,
 přehrozný pád vidím  
 vlády bohů.
 
-[57](#57)  
+<a href="#57" id="57">57</a>  
 Znovu však vidím  
 zvedat se z moře  
 zelenou zemi  
@@ -596,7 +596,7 @@ orel poletuje,
 který se skal rád  
 po rybách slídí.
 
-[58](#58)  
+<a href="#58" id="58">58</a>  
 Ásové se scházejí  
 na Idské pláni,  
 hovoří spolu  
@@ -606,7 +606,7 @@ velkých věcí,
 starých run  
 vládce světa.
 
-[59](#59)  
+<a href="#59" id="59">59</a>  
 Nyní se najdou  
 na travnaté pláni  
 zas zlaté kostky,  
@@ -614,7 +614,7 @@ jež k zábavě byly
 v počátku věků  
 vládnoucím rodům.
 
-[60](#60)  
+<a href="#60" id="60">60</a>  
 Pole bez osetí  
 úrodu dají.  
 Bezpráví padne,  
@@ -624,7 +624,7 @@ přebývat budou
 ve Valhalle -  
 Ví někdo víc?
 
-[61](#61)  
+<a href="#61" id="61">61</a>  
 Hoeni se ujme  
 věšticích hůlek,  
 obydlí synové  
@@ -632,7 +632,7 @@ obou bratří
 věčný svět nebe -  
 Ví někdo víc?
 
-[62](#62)  
+<a href="#62" id="62">62</a>  
 Sál vidím stát  
 nad slunce jasnější,  
 zakrytý střechou  
@@ -641,13 +641,13 @@ Tam bude věrná
 družina bydlit,  
 věčně se bude veseliti.
 
-[63](#63)  
+<a href="#63" id="63">63</a>  
 Tu mocný s hůry  
 sestoupí vládce,  
 vítězný, věčný,  
 k velkému soudu.
 
-[64](#64)  
+<a href="#64" id="64">64</a>  
 Drak zdola přilétá  
 z Nidských plání,  
 temný pluje  

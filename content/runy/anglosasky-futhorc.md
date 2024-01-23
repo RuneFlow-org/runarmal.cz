@@ -3,10 +3,7 @@ title: Anglosaský futhorc
 date: 2011-08-02
 ---
 
-{{ $assetH := resources.Get "/images/runy/anglosaxon-futhorc/h.png" }}
-{{ $imgH := $assetH.Fit "x20" }}
-
-Toto runové písmo se vyvinulo ze 24 znakového [Staršího futharku](/runy), postupně mělo 26, 28 a 33 znaků. Okolnosti jeho vzniku nejsou známé, ale nejstarší runový nápis na Britských ostrovech pochází z druhé poloviny pátého století (pravděpodobně ale byl vyryt skandinávským runovým mistrem přímo na místě, nebo přivezen, protože obsahuje severskou podobu runy H s jednou příčkou :<img alt="haegl" src="{{ $imgH.RelPermalink }}" />:, namísto zdvojené anglické varianty :![haegl](/images/runy/anglosaxon-futhorc/h2.png):).
+Toto runové písmo se vyvinulo ze 24 znakového [Staršího futharku](/runy), postupně mělo 26, 28 a 33 znaků. Okolnosti jeho vzniku nejsou známé, ale nejstarší runový nápis na Britských ostrovech pochází z druhé poloviny pátého století (pravděpodobně ale byl vyryt skandinávským runovým mistrem přímo na místě, nebo přivezen, protože obsahuje severskou podobu runy H s jednou příčkou :<img alt="haegl" src="/images/runy/anglosaxon-futhorc/h.png" />:, namísto zdvojené anglické varianty :![haegl](/images/runy/anglosaxon-futhorc/h2.png):).
 
 Původních 24 run bylo rychle rozšířeno na 26 přidáním modifikované čtvrté a čtyřiadvacáté runy. Z :![ansuz](/images/runy/anglosaxon-futhorc/ae.png): \[a] se vyvinulo :![ac](/images/runy/anglosaxon-futhorc/a.png): \[o] (:![edhel](/images/runy/anglosaxon-futhorc/o.png): mělo fonetickou hodnotu \[œ] a později \[é]). Navíc byla runa :![ansuz](/images/runy/anglosaxon-futhorc/ae.png): přesunuta na 25\. pozici a pojmenována _æsc_ (jasan). K těmto změnám došlo už v šestém století. Další pozdější změny souvisely s vývojem angličtiny.
 
