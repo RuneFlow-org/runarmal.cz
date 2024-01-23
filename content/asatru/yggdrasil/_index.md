@@ -15,39 +15,39 @@ Svět je tvořen devíti samostatnými říšemi, které jsou obydleny různými
 Devět světů Yggdrasilu
 ----------------------
 
-### Niflheim
+### [Niflheim](/asatru/yggdrasil/niflheim)
 
 Nordický polární svět, který existoval již před stvořením světa, opak Muspelheimu. Je říší chladu, zimy, mlhy, temnoty a ledu. Ze studny Hvergelmi zde pramení dvanáct ledových řek **Élivág**. V této zemi vládne energie antihmoty, destrukce a někdy nevyhnutelných omezení. Pánem Země ledu je had **Nidhögg**, symbol a zdroj všeho zla na světě. Ovíjí se kolem stromu světa a bez ustání ohlodává jeho kořeny ve snaze co nejvíce ho poškodit.
 
-### Múspelheim
+### [Múspelheim](/asatru/yggdrasil/muspelheim)
 
 Domov ohně, lávy, energie kosmických elektrických výbojů a taktéž síly čiré energie. Z jisker Múspelheimu byly stvořeny hvězdy. Říše je obydlena ohnivými obry, jejichž vládcem je **Súrt** (černý). Múspelheim je krajinou na jihu, zemí zkázy. Současně je to však říše, ze které vychází světlo a teplo; svět tvoření a utváření, sídlo pudů, hnacích sil a vůle k uskutečňování.
 
-### Midgard
+### [Midgard](/asatru/yggdrasil/midgard)
 
 Svět lidí, ve kterém žijeme. Prolíná se zde působení sil řádu - bohů a chaosu - obrů. Říše lidí symbolizuje fyzickou stránku naší bytosti.
 
-### Jötunheim
+### [Jötunheim](/asatru/yggdrasil/jotunheim)
 
 Známý též jako Útgard nebo Thursheim. Země obrů, kteří ztělesňují elementární energie chaosu, síly ničení a zániku. Je to drsná skalnatá země bičovaná silným větrem. Vládne zde obr **Asvind**.
 
-### Vanaheim
+### [Vanaheim](/asatru/yggdrasil/vanaheim)
 
 Je sídlem Vanů. Je to říše všeho rostlinného a organického, co je podřízeno bohu Freyovi. Nacházejí se zde plodivé a klíčivé síly přírody, které jsou Vany udržovány v neustálé rovnováze. Vanaheim je přátelským, útulným místem proto, že Vanové jsou božstvy míru, plodnosti, zemědělství a blahobytu.
 
-### Ljosalfheim
+### [Ljosalfheim](/asatru/yggdrasil/ljosalfheim)
 
 Říše světla, světlých elfů a vyšších přírodních duchů a současně úroveň ducha a intelektu. Jejím strážcem je elf **Delling**, který společně se svou chotí **Nött**, personifikací noci, dává vzniknout světlému dni. Je přechodem mezi nejnižšími sférami Asgardu a nejvyššími sférami Midgardu.
 
-### Svartalfheim
+### [Svartalfheim](/asatru/yggdrasil/svartalfheim)
 
 Říše trpaslíků, temných albů a elfů. Představuje protipól Ljosalfheimu, obývají jej bytosti, které se vyznačují vlastnostmi jako proradnost, závist, lakota a chtivost - ale také vysoká umělecká zručnost. Prolínají se zde nejnižší sféry Midgardu a nejvyšší sféry Helheimu. V této říši na sebe berou formu a podobu naše nízké pudy a emoce. Vládne zde **Dain**.
 
-### Helheim
+### [Helheim](/asatru/yggdrasil/helheim)
 
 Říše mrtvých, jejíž vládkyní je dcera Lokiho a obryně Angrbody **Hel**. Panuje nad dušemi všech, kdo nezahynuli jako hrdinové v boji ani neutonuli v moři. Je napůl bílá a napůl černá; z jedné poloviny téměř lidská bytost, z druhé tmavá, modročerná a chlupatá. Vchod do Helheimu hlídá pes **Garm**, který žije v místě zvaném Gnipahellir.
 
-### Ásgard
+### [Ásgard](/asatru/yggdrasil/asgard)
 
 Domov a útočiště Ásů. Bohyně a bozi z rodu Ásů disponují obrovskou silou, která proniká celým vesmírem a drží ho pohromadě. V Ásgardu se nachází celá řada výjimečných míst, z nichž některé slouží jednotlivým bohům jako osobní sídla. Ásgard je symbolickou říší vědomí a vyššího Já, jehož prostřednictvím nacházíme cestu k pravé podstatě své bytosti. 
 
